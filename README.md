@@ -85,7 +85,7 @@ The findings provide **actionable insights** for educators, parents, and policym
 
 ##  Video Explanation
 
-I've created a video that explains the project Check it out on YouTube:
+I have created a video that explains the project Check it out on YouTube:
 
 https://youtu.be/eN8o2TS8qJY?si=I23ImB6dMaGfLcsW
 ##  Requirements
